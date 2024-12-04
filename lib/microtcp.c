@@ -24,7 +24,7 @@
 microtcp_sock_t
 microtcp_socket (int domain, int type, int protocol)
 {
-  /* Your code here */
+  //patra patra patra
 }
 
 int
